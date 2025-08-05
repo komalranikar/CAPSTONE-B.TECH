@@ -71,8 +71,8 @@ This project presents a **hybrid ML model** using LSTM for sequential voice feat
 | Model               | Accuracy | Precision | Recall | F1-score | ROC-AUC |
 |---------------------|----------|-----------|--------|----------|---------|
 | **Hybrid (LSTM+XGB)** | 0.97     | 0.97      | 1.00   | 0.98     | 0.99    |
-| XGBoost Only        | Lower    | Lower     | Lower  | Lower    | Lower   |
-| LSTM Only           | Lower    | Lower     | Lower  | Lower    | Lower   |
+| XGBoost Only        | 0.92    | 0.93     | 0.97  | 0.95    | 0.96   |
+| LSTM Only           | 0.85    | 0.96     | 0.83  | 0.89    | 0.97   |
 
 ---
 
