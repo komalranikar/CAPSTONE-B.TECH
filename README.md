@@ -109,7 +109,7 @@ This project presents a **hybrid ML model** using LSTM for sequential voice feat
 
 ![Result Page Screenshot](results.png)
 
-
+---
 
 ## 🧠 Conclusion
 
