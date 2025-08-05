@@ -48,7 +48,7 @@ This project presents a **hybrid ML model** using LSTM for sequential voice feat
 | Visualization        | Matplotlib, Seaborn                             |
 | Data Handling        | Pandas, NumPy                                    |
 | Model Optimization   | SMOTE, GridSearchCV                              |
-| Deployment           | Flask Web Server, Cloud (AWS/Heroku)            |
+| Deployment           | Flask Web Server                                 |
 | Storage              | SQLite, Pickle, Joblib                           |
 
 ---
@@ -95,6 +95,17 @@ This project presents a **hybrid ML model** using LSTM for sequential voice feat
 ## 🌐 Web Application Screenshots
 
 ![Register Page Screenshot](register.png)
+ 
+
+
+![Login Page Screenshot](login.png)
+
+
+![Form Page Screenshot](details.png)
+
+
+![Result Page Screenshot](results.png)
+
 
 
 ## 🧠 Conclusion
