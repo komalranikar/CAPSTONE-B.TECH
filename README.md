@@ -94,6 +94,7 @@ This project presents a **hybrid ML model** using LSTM for sequential voice feat
 
 ## 🌐 Web Application Screenshots
 
+![Register Page Screenshot](register.png)
 
 
 ## 🧠 Conclusion
@@ -102,3 +103,10 @@ Our hybrid LSTM + XGBoost model outperforms traditional diagnostic techniques an
 
 ---
 
+## 💡 Future Work
+
+- Integrate mobile-based voice data collection
+- Expand dataset for multilingual voice samples
+- Integrate with hospital EMR systems
+
+---
