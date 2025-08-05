@@ -60,6 +60,7 @@ This project presents a **hybrid ML model** using LSTM for sequential voice feat
 3. **Model Training:** Hybrid LSTM + XGBoost
 4. **Evaluation:** Accuracy, Precision, Recall, F1-score, ROC-AUC
 5. **Web Deployment:** Flask app for real-time predictions
+![model](model.png)
 
 ---
 
